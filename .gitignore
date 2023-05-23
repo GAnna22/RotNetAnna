@@ -1,0 +1,6 @@
+/data/
+/rotnet_venv/
+/train/logs/
+/__pycache__/
+/.ipynb_checkpoints/
+/models/
